@@ -1,4 +1,4 @@
-![hot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fxakep.ru%2F2016%2F11%2F10%2Ffuck-uac%2F&psig=AOvVaw3xV1piwGpVElk84u0PBWA_&ust=1586429348631000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDpmdfT2OgCFQAAAAAdAAAAABAE)
+![hot](https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)
 
 
 
