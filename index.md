@@ -2,7 +2,12 @@
 
 
 
-https://github.com/hfiref0x/UACME
+
+![hot](https://i2.wp.com/1.bp.blogspot.com/-sZznJHASMh8/Xo2xvENIRRI/AAAAAAAAjbc/aDlr4VWuH6kXlmh_mE2UZ-xgnrQLoccZQCLcBGAsYHQ/s1600/0.png?w=687&ssl=1)
+### [Сброс учетных данных: SAM](https://www.hackingarticles.in/credential-dumping-sam/)
+
+
+### https://github.com/hfiref0x/UACME
 
 # System Requirements
 
