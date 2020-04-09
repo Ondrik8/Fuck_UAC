@@ -6,10 +6,15 @@
 ![hot](https://i2.wp.com/1.bp.blogspot.com/-sZznJHASMh8/Xo2xvENIRRI/AAAAAAAAjbc/aDlr4VWuH6kXlmh_mE2UZ-xgnrQLoccZQCLcBGAsYHQ/s1600/0.png?w=687&ssl=1)
 ### [Сброс учетных данных: SAM](https://www.hackingarticles.in/credential-dumping-sam/)
 
+![](https://raw.githubusercontent.com/hlldz/pickl3/master/pickl3.png)
+
+### https://github.com/hlldz/pickl3
+
+
+
+## System Requirements
 
 ### https://github.com/hfiref0x/UACME
-
-# System Requirements
 
 * x86-32/x64 Windows 7/8/8.1/10 (client, some methods however works on server version too).
 * Admin account with UAC set on default settings required.
