@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="demo.gif">
+  <img src="https://github.com/itm4n/FullPowers/raw/master/demo.gif">
 </p>
 
 #### https://github.com/itm4n/FullPowers
