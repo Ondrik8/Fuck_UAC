@@ -3,6 +3,10 @@
 
 ### https://www.hackingarticles.in/
 
+![](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)
+
+#### https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+
 
 <p align="center">
   <img src="https://github.com/itm4n/FullPowers/raw/master/demo.gif">
