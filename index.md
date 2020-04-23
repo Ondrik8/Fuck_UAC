@@ -1,9 +1,9 @@
-![(https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)](https://www.hackingarticles.in/)
+[![hackingarticles](https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)](https://www.hackingarticles.in/)
 
 
 ### https://www.hackingarticles.in/
 
-![](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)
+!](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)
 
 #### https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 
