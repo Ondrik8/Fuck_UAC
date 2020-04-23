@@ -1,6 +1,9 @@
 [![hackingarticles](https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)](https://www.hackingarticles.in/)
 
 
+### [CVE-2020-0624](https://github.com/james0x40/CVE-2020-0624)
+
+
 
 
 [![peass](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/raw/master/linPEAS/images/peass.png)](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)
