@@ -1,4 +1,4 @@
-![hot](https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)
+![(https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)](https://www.hackingarticles.in/)
 
 
 ### https://www.hackingarticles.in/
