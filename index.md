@@ -14,9 +14,7 @@
 
 
 
-![](https://securityonline.info/wp-content/uploads/2020/02/get-help.png)
-
-#### https://github.com/itm4n/PrivescCheck
+[![](https://securityonline.info/wp-content/uploads/2020/02/get-help.png)](https://github.com/itm4n/PrivescCheck)
 
 
 ## Usage 
