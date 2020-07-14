@@ -56,6 +56,18 @@ https://github.com/Pickfordmatt/SharpLocker
 
 ![](https://1.bp.blogspot.com/-vWTZFXpgriQ/XpXLWa3sWUI/AAAAAAAAjjg/BzDVi7-8N9U9mSx8TYYYCeSuAwDKjn2rACLcBGAsYHQ/s1600/19.png)
 
+`````
+https://attack.mitre.org/techniques/T1141/
+https://enigma0x3.net/2015/01/21/phishing-for-credentials-if-you-want-it-just-ask/
+https://github.com/enigma0x3/Invoke-LoginPrompt
+https://github.com/samratashok/nishang/blob/master/Gather/Invoke-CredentialsPhish.ps1
+https://github.com/bitsadmin/fakelogonscreen
+https://github.com/Pickfordmatt/SharpLocker
+https://malicious.link/post/2015/powershell-popups-and-capture/
+https://github.com/Dviros/CredsLeaker
+https://github.com/thelinuxchoice/lockphish
+`````
+
 ```
 function Invoke-CredentialsPhish
 {
