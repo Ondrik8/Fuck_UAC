@@ -80,11 +80,7 @@
 
 
 
-### [Microsoft Exchange Server msExchEcpCanary Cross Site Request Forgery Elevation of Privilege Vulnerability](https://github.com/sourceincite/CVE-2021-24085)
 
-
-
-### [Exploiting an Elevation of Privilege bug in Windows 10 (CVE-2020-1362)](https://github.com/Ondrik8/CVE-2020-1362)
 
 #### Crack any Microsoft Windows users password without any privilege (Guest account included)
 
