@@ -1,8 +1,8 @@
 [![hackingarticles](https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)](https://book.hacktricks.xyz/windows/authentication-credentials-uac-and-efs)
 
-<center>
+
 [![book](https://github.com/Ondrik8/Fuck_UAC/blob/master/Screenshot_3.png)](https://github.com/Ondrik8/Fuck_UAC/blob/master/Privilege%20escalation%20automated%20script%20Windows%20%26%20Linux.pdf)
-</center>
+
 
 
 ### [Microsoft Exchange Server msExchEcpCanary Cross Site Request Forgery Elevation of Privilege Vulnerability](https://github.com/sourceincite/CVE-2021-24085)
