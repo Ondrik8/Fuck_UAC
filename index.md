@@ -4,7 +4,7 @@
 
 
 
-[![hackingarticles](https://github.com/Ondrik8/Fuck_UAC/blob/master/fuck_uac.gif)](https://book.hacktricks.xyz/windows/authentication-credentials-uac-and-efs)
+[![hackingarticles](https://github.com/Ondrik8/Fuck_UAC/blob/master/F_UAC.gif)](https://book.hacktricks.xyz/windows/authentication-credentials-uac-and-efs)
 
 | CVE ID                           | MS  ID                                                       | KB        |                 Operating System                  |
 | :------------------------------- | ------------------------------------------------------------ | --------- | :-----------------------------------------------: |
