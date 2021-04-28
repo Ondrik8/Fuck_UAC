@@ -1,3 +1,9 @@
+![FUCK-UAC](https://github.com/Ondrik8/Fuck_UAC/blob/master/fuck_uac.gif)
+
+
+
+
+
 [![hackingarticles](https://xakep.ru/wp-content/uploads/2016/11/FCKUAC-h.jpg)](https://book.hacktricks.xyz/windows/authentication-credentials-uac-and-efs)
 
 | CVE ID                           | MS  ID                                                       | KB        |                 Operating System                  |
