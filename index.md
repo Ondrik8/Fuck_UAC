@@ -5,6 +5,9 @@
 
 [![hackingarticles](/F_UAC.gif)](https://book.hacktricks.xyz/windows/authentication-credentials-uac-and-efs)
 
+
+https://github.com/gtworek/Priv2Admin<br>
+
 | CVE ID                           | MS  ID                                                       | KB        |                 Operating System                  |
 | :------------------------------- | ------------------------------------------------------------ | --------- | :-----------------------------------------------: |
 | [CVE-2003-0352](https://github.com/Al1ex/WindowsElevation/tree/master/CVE-2003-0352) | [MS03-026](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2003/ms03-026) | KB823980  |      Windows 2003/XP/2000/NT 4.0/Server 2003      |
